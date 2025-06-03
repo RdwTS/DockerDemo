@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1748941428205,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,822,0,1,1,null,0,0,0
+1748941428693,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,822,0,1,1,null,0,0,0
+1748941429191,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,822,0,1,1,null,0,0,0
+1748941429694,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,822,0,1,1,null,0,0,0
+1748941430191,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,822,0,1,1,null,0,0,0
+1748941430690,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-6,text,false,,822,0,1,1,null,0,0,0
+1748941431191,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-7,text,false,,822,0,1,1,null,0,0,0
+1748941431690,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-8,text,false,,822,0,1,1,null,0,0,0
+1748941432190,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-9,text,false,,822,0,1,1,null,0,0,0
+1748941432690,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-10,text,false,,822,0,1,1,null,0,0,0
+1748941635265,1007,GET User List,200,OK,Thread Group 1-3,text,true,,3801,162,5,5,https://dummyapi.io/data/v1/user,1002,0,638
+1748941634761,1597,GET User List,200,OK,Thread Group 1-2,text,true,,3789,162,4,4,https://dummyapi.io/data/v1/user,1597,0,1144
+1748941635760,893,GET User List,200,OK,Thread Group 1-4,text,true,,3789,162,3,3,https://dummyapi.io/data/v1/user,893,0,151
+1748941636759,605,GET User List,200,OK,Thread Group 1-6,text,true,,3791,162,4,4,https://dummyapi.io/data/v1/user,604,0,66
+1748941637260,381,GET User List,200,OK,Thread Group 1-7,text,true,,3797,162,3,3,https://dummyapi.io/data/v1/user,381,0,62
+1748941636260,2302,GET User List,200,OK,Thread Group 1-5,text,true,,3794,162,4,4,https://dummyapi.io/data/v1/user,2302,0,67
+1748941638258,378,GET User List,200,OK,Thread Group 1-9,text,true,,3797,162,3,3,https://dummyapi.io/data/v1/user,378,0,60
+1748941634377,4377,GET User List,200,OK,Thread Group 1-1,text,true,,3790,162,2,2,https://dummyapi.io/data/v1/user,4376,0,1529
+1748941637760,1028,GET User List,200,OK,Thread Group 1-8,text,true,,3797,162,2,2,https://dummyapi.io/data/v1/user,1028,0,58
+1748941638760,466,GET User List,200,OK,Thread Group 1-10,text,true,,3789,162,1,1,https://dummyapi.io/data/v1/user,466,0,77

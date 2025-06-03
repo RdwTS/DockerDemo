@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a722a248-db2a-45d1-b105-f72aad9ce7f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmeter/test.jmx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,6 +93,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Cucumber Java.Feature: API.executor": "Run",
+    "Cucumber Java.Feature: checkout.executor": "Run",
     "Cucumber Java.Scenario: Create new user and Delete user.executor": "Run",
     "Cucumber Java.Scenario: Create new user.executor": "Run",
     "Cucumber Java.Scenario: Get tag list, store \"sea\" tag, and verify posts filtered by the tag.executor": "Run",
@@ -114,6 +117,7 @@
     "Gradle.APITest.updateUserPUT.executor": "Run",
     "Gradle.APITest.validateJsonSchemaGetSingleUser.executor": "Run",
     "Gradle.Build API-WebAutomationGitAction.executor": "Run",
+    "Gradle.Build DemoDocker.executor": "Run",
     "Gradle.Build FinalProject-ridwan.executor": "Run",
     "Gradle.CucumberTest.executor": "Run",
     "Gradle.LoginTest.executor": "Debug",
@@ -147,15 +151,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: Create new user and Delete user" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: checkout" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/API.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/checkout.feature" />
       <option name="GLUE" value="ridwan.stepdef" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="API-WebAutomationGitAction.test" />
-      <option name="NAME_FILTER" value="^Create new user and Delete user$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Create new user and Delete user$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Create new user and Delete user" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: checkout" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -251,10 +254,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Cucumber Java.Feature: API" />
+        <item itemvalue="Cucumber Java.Feature: checkout" />
         <item itemvalue="Cucumber Java.Scenario: Get tag list, store &quot;sea&quot; tag, and verify posts filtered by the tag" />
         <item itemvalue="Gradle.APITest" />
         <item itemvalue="Gradle.APITest.getTagList" />
-        <item itemvalue="Cucumber Java.Scenario: Create new user and Delete user" />
       </list>
     </recent_temporary>
   </component>
