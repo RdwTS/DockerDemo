@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a722a248-db2a-45d1-b105-f72aad9ce7f0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ridwan/APITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ridwan/APITest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ridwan/stepdef/ApiStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ridwan/stepdef/ApiStep.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/API.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/API.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +123,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Ridwan/Learn/QA/project/API-WebAutomationGitAction/src/test/java/stepdef",
+    "last_opened_file_path": "D:/workspace_OK_COLLECTION/collection.svc",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>
