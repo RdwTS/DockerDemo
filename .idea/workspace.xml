@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a722a248-db2a-45d1-b105-f72aad9ce7f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jmeter/test.jmx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/selenium-test.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/selenium-test.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
